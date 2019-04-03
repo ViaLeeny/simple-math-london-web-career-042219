@@ -23,5 +23,5 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  12 + (( 9 * 2 ) /  3 )
+ 12 + (( 9 * 2 ) /  3 )
 end
